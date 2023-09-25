@@ -181,7 +181,7 @@ text-decoration: none;
 
 .project-cta button a {
   text-decoration: none;
-  color: inherit;
+  color: black;
 }
 
 .project-cta button + button {
